@@ -26,7 +26,6 @@ Before you begin, ensure you have met the following requirements:
 
 * You Should Know Basic or Intermediate of HTML ,CSS and JavaScript
 * In this we have used bootstrap icon 
-* 
 ```html
 <!-- bootstrap-icons cdn link  -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"/>
